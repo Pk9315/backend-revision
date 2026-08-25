@@ -4,15 +4,16 @@ const profileSchema = new mongoose.Schema(
     {
         profileImageUrl: String,
         fullName: String,
-        userName: String,
+        username: String,
         bio: String,
         companyName: String,
         city: String,
-        profileLink: String,
+        portfolioUrl: String,
         handle: String,
-        followersCount: Number,
+        followerCount: Number,
         followingCount: Number,
-        isOnline: Boolean
+        location: String,
+        isOnline: Boolean,
     }
 )
 
