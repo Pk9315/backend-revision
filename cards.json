@@ -1,0 +1,20 @@
+ [
+    {
+        "cardName": "Debit Card",
+        "cardNumber": "1234567890123456",
+        "expiryDate": "12/28",
+        "cardHolderName": "Rahul"
+    },
+    {
+        "cardName": "Credit Card",
+        "cardNumber": "9876543210987654",
+        "expiryDate": "08/29",
+        "cardHolderName": "Amit"
+    },
+    {
+        "cardName" : "Debit Card",
+        "cardNumber" : "+91574585254",
+        "expiryDate": "01/35",
+        "cardHolderName": "Rohit"
+    }
+]
