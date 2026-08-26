@@ -1,0 +1,52 @@
+[
+  {
+    "employeeImage": "https://example.com/rohit.jpg",
+    "name": "Rohit",
+    "designation": "Software Developer",
+    "employeeId": 4574586,
+    "employeeDob": "04-10-2001",
+    "email": "rohitkumar123@gmail.com",
+    "employeeContact": "+8745885699",
+    "address": "New Delhi"
+  },
+  {
+    "employeeImage": "https://example.com/amit.jpg",
+    "name": "Amit",
+    "designation": "Frontend Developer",
+    "employeeId": 4574587,
+    "employeeDob": "15-06-2000",
+    "email": "amit.sharma@example.com",
+    "employeeContact": "+919876543210",
+    "address": "Gurugram"
+  },
+  {
+    "employeeImage": "https://example.com/priya.jpg",
+    "name": "Priya",
+    "designation": "UI/UX Designer",
+    "employeeId": 4574588,
+    "employeeDob": "22-09-2002",
+    "email": "priya.singh@example.com",
+    "employeeContact": "+919812345678",
+    "address": "Noida"
+  },
+  {
+    "employeeImage": "https://example.com/rahul.jpg",
+    "name": "Rahul",
+    "designation": "Backend Developer",
+    "employeeId": 4574589,
+    "employeeDob": "11-02-1999",
+    "email": "rahul.verma@example.com",
+    "employeeContact": "+919765432109",
+    "address": "Delhi"
+  },
+  {
+    "employeeImage": "https://example.com/neha.jpg",
+    "name": "Neha",
+    "designation": "HR Executive",
+    "employeeId": 4574590,
+    "employeeDob": "30-12-2001",
+    "email": "neha.gupta@example.com",
+    "employeeContact": "+919654321087",
+    "address": "Faridabad"
+  }
+]
