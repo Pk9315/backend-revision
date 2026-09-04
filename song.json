@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration": 200,
+    "language": "English"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "duration": 234,
+    "language": "English"
+  },
+  {
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "album": "Brahmastra",
+    "duration": 268,
+    "language": "Hindi"
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "album": "Aashiqui 2",
+    "duration": 262,
+    "language": "Hindi"
+  },
+  {
+    "title": "Chaleya",
+    "artist": "Arijit Singh",
+    "album": "Jawan",
+    "duration": 200,
+    "language": "Hindi"
+  },
+  {
+    "title": "Apna Bana Le",
+    "artist": "Arijit Singh",
+    "album": "Bhediya",
+    "duration": 261,
+    "language": "Hindi"
+  },
+  {
+    "title": "Heeriye",
+    "artist": "Jasleen Royal",
+    "album": "Heeriye",
+    "duration": 191,
+    "language": "Hindi"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "duration": 263,
+    "language": "English"
+  }
+]
